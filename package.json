@@ -56,7 +56,7 @@
     "jest-diff": "^20.0.3",
     "jest-matcher-utils": "^20.0.3",
     "rimraf": "^2.3.2",
-    "temp": "^0.8.1"
+    "temp": "^0.9.0"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>/tests/setupTestFramework.js",
